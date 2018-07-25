@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 10d5a3cb30a7ba547816589410b5b514
+timeCreated: 1518010409
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Linie001
+    100004: Linie002
+    100006: Linie003
+    100008: Linie004
+    100010: Linie005
+    100012: Linie006
+    100014: Linie007
+    100016: Linie008
+    100018: Linie009
+    100020: Linie010
+    100022: Linie011
+    100024: Linie012
+    100026: Linie013
+    100028: Linie014
+    100030: Linie015
+    100032: Linie016
+    100034: Linie017
+    100036: Linie018
+    100038: Linie019
+    100040: Linie020
+    100042: Linie021
+    100044: Linie022
+    400000: //RootNode
+    400002: Linie001
+    400004: Linie002
+    400006: Linie003
+    400008: Linie004
+    400010: Linie005
+    400012: Linie006
+    400014: Linie007
+    400016: Linie008
+    400018: Linie009
+    400020: Linie010
+    400022: Linie011
+    400024: Linie012
+    400026: Linie013
+    400028: Linie014
+    400030: Linie015
+    400032: Linie016
+    400034: Linie017
+    400036: Linie018
+    400038: Linie019
+    400040: Linie020
+    400042: Linie021
+    400044: Linie022
+    2100000: 07 - Default
+    2100002: 08 - Default
+    2100004: 09 - Default
+    2100006: 13 - Default
+    2300000: Linie001
+    2300002: Linie002
+    2300004: Linie003
+    2300006: Linie004
+    2300008: Linie005
+    2300010: Linie006
+    2300012: Linie007
+    2300014: Linie008
+    2300016: Linie009
+    2300018: Linie010
+    2300020: Linie011
+    2300022: Linie012
+    2300024: Linie013
+    2300026: Linie014
+    2300028: Linie015
+    2300030: Linie016
+    2300032: Linie017
+    2300034: Linie018
+    2300036: Linie019
+    2300038: Linie020
+    2300040: Linie021
+    2300042: Linie022
+    3300000: Linie001
+    3300002: Linie002
+    3300004: Linie003
+    3300006: Linie004
+    3300008: Linie005
+    3300010: Linie006
+    3300012: Linie007
+    3300014: Linie008
+    3300016: Linie009
+    3300018: Linie010
+    3300020: Linie011
+    3300022: Linie012
+    3300024: Linie013
+    3300026: Linie014
+    3300028: Linie015
+    3300030: Linie016
+    3300032: Linie017
+    3300034: Linie018
+    3300036: Linie019
+    3300038: Linie020
+    3300040: Linie021
+    3300042: Linie022
+    4300000: Linie001
+    4300002: Linie002
+    4300004: Linie003
+    4300006: Linie016
+    4300008: Linie017
+    4300010: Linie018
+    4300012: Linie004
+    4300014: Linie005
+    4300016: Linie006
+    4300018: Linie007
+    4300020: Linie008
+    4300022: Linie009
+    4300024: Linie010
+    4300026: Linie011
+    4300028: Linie012
+    4300030: Linie013
+    4300032: Linie014
+    4300034: Linie015
+    4300036: Linie019
+    4300038: Linie020
+    4300040: Linie021
+    4300042: Linie022
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

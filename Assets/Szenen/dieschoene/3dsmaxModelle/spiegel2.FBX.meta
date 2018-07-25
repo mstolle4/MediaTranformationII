@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 1db328c6764292c4ab0486708f96dad6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Feder001
+    100002: Feder002
+    100004: Feder003
+    100006: Gengon001
+    100008: //RootNode
+    100010: Spindel001
+    100012: Spindel003
+    100014: Spindel008
+    100016: Spindel011
+    100018: Spindel015
+    100020: Spindel017
+    100022: Spindel018
+    100024: Spindel019
+    100026: Spindel020
+    100028: Spindel021
+    100030: Spindel022
+    100032: Tube001
+    400000: Feder001
+    400002: Feder002
+    400004: Feder003
+    400006: Gengon001
+    400008: //RootNode
+    400010: Spindel001
+    400012: Spindel003
+    400014: Spindel008
+    400016: Spindel011
+    400018: Spindel015
+    400020: Spindel017
+    400022: Spindel018
+    400024: Spindel019
+    400026: Spindel020
+    400028: Spindel021
+    400030: Spindel022
+    400032: Tube001
+    2100000: No Name
+    2300000: Feder001
+    2300002: Feder002
+    2300004: Feder003
+    2300006: Gengon001
+    2300008: Spindel001
+    2300010: Spindel003
+    2300012: Spindel008
+    2300014: Spindel011
+    2300016: Spindel015
+    2300018: Spindel017
+    2300020: Spindel018
+    2300022: Spindel019
+    2300024: Spindel020
+    2300026: Spindel021
+    2300028: Spindel022
+    2300030: Tube001
+    3300000: Feder001
+    3300002: Feder002
+    3300004: Feder003
+    3300006: Gengon001
+    3300008: Spindel001
+    3300010: Spindel003
+    3300012: Spindel008
+    3300014: Spindel011
+    3300016: Spindel015
+    3300018: Spindel017
+    3300020: Spindel018
+    3300022: Spindel019
+    3300024: Spindel020
+    3300026: Spindel021
+    3300028: Spindel022
+    3300030: Tube001
+    4300000: Spindel001
+    4300002: Gengon001
+    4300004: Tube001
+    4300006: Spindel003
+    4300008: Spindel008
+    4300010: Spindel011
+    4300012: Spindel015
+    4300014: Spindel017
+    4300016: Spindel018
+    4300018: Spindel019
+    4300020: Spindel020
+    4300022: Spindel021
+    4300024: Spindel022
+    4300026: Feder001
+    4300028: Feder002
+    4300030: Feder003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

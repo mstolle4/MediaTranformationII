@@ -1,0 +1,887 @@
+fileFormatVersion: 2
+guid: 7d75e2193feb0b94b90661ef6aaaf17e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Chassis
+    100002: Chassis 1
+    100004: Fan
+    100006: Fan 1
+    100008: group_0
+    100010: ID104
+    100012: ID104 1
+    100014: ID110
+    100016: ID110 1
+    100018: ID116
+    100020: ID116 1
+    100022: ID122
+    100024: ID122 1
+    100026: ID128
+    100028: ID128 1
+    100030: ID134
+    100032: ID134 1
+    100034: ID140
+    100036: ID140 1
+    100038: ID146
+    100040: ID146 1
+    100042: ID152
+    100044: ID152 1
+    100046: ID158
+    100048: ID158 1
+    100050: ID164
+    100052: ID164 1
+    100054: ID170
+    100056: ID170 1
+    100058: ID176
+    100060: ID176 1
+    100062: ID182
+    100064: ID182 1
+    100066: ID188
+    100068: ID188 1
+    100070: ID194
+    100072: ID194 1
+    100074: ID200
+    100076: ID200 1
+    100078: ID206
+    100080: ID206 1
+    100082: ID212
+    100084: ID212 1
+    100086: ID218
+    100088: ID218 1
+    100090: ID224
+    100092: ID224 1
+    100094: ID230
+    100096: ID230 1
+    100098: ID236
+    100100: ID236 1
+    100102: ID242
+    100104: ID242 1
+    100106: ID248
+    100108: ID248 1
+    100110: ID254
+    100112: ID254 1
+    100114: ID260
+    100116: ID260 1
+    100118: ID266
+    100120: ID266 1
+    100122: ID272
+    100124: ID272 1
+    100126: ID278
+    100128: ID278 1
+    100130: ID282
+    100132: ID282 1
+    100134: ID286
+    100136: ID286 1
+    100138: ID292
+    100140: ID292 1
+    100142: ID296
+    100144: ID296 1
+    100146: ID300
+    100148: ID300 1
+    100150: ID313
+    100152: ID319
+    100154: ID327
+    100156: ID333
+    100158: ID339
+    100160: ID345
+    100162: ID351
+    100164: ID357
+    100166: ID365
+    100168: ID378
+    100170: ID384
+    100172: ID390
+    100174: ID396
+    100176: ID402
+    100178: ID408
+    100180: ID414
+    100182: ID420
+    100184: ID426
+    100186: ID432
+    100188: ID438
+    100190: ID444
+    100192: ID450
+    100194: ID456
+    100196: ID462
+    100198: ID468
+    100200: ID474
+    100202: ID480
+    100204: ID486
+    100206: ID492
+    100208: ID498
+    100210: ID504
+    100212: ID510
+    100214: ID516
+    100216: ID522
+    100218: ID528
+    100220: ID534
+    100222: ID540
+    100224: ID546
+    100226: ID552
+    100228: ID558
+    100230: ID577
+    100232: ID585
+    100234: ID593
+    100236: ID601
+    100238: ID609
+    100240: ID617
+    100242: ID625
+    100244: ID633
+    100246: ID641
+    100248: ID649
+    100250: ID65
+    100252: ID65 1
+    100254: ID657
+    100256: ID665
+    100258: ID673
+    100260: ID681
+    100262: ID689
+    100264: ID697
+    100266: ID705
+    100268: ID71
+    100270: ID71 1
+    100272: ID713
+    100274: ID86
+    100276: ID86 1
+    100278: ID92
+    100280: ID92 1
+    100282: ID98
+    100284: ID98 1
+    100286: instance_0
+    100288: instance_1
+    100290: instance_10
+    100292: instance_10 1
+    100294: instance_11
+    100296: instance_11 1
+    100298: instance_12
+    100300: instance_12 1
+    100302: instance_13
+    100304: instance_13 1
+    100306: instance_14
+    100308: instance_14 1
+    100310: instance_15
+    100312: instance_2
+    100314: instance_2 1
+    100316: instance_3
+    100318: instance_3 1
+    100320: instance_4
+    100322: instance_4 1
+    100324: instance_5
+    100326: instance_5 1
+    100328: instance_6
+    100330: instance_6 1
+    100332: instance_7
+    100334: instance_7 1
+    100336: instance_8
+    100338: instance_8 1
+    100340: instance_9
+    100342: instance_9 1
+    100344: //RootNode
+    100346: Nabe
+    100348: Nabe 1
+    100350: Projector
+    100352: Rotor
+    100354: Rotor 1
+    100356: Rotorblatt
+    100358: Rotorblatt 1
+    100360: Rotorblatt 10
+    100362: Rotorblatt 11
+    100364: Rotorblatt 12
+    100366: Rotorblatt 13
+    100368: Rotorblatt 14
+    100370: Rotorblatt 15
+    100372: Rotorblatt 16
+    100374: Rotorblatt 17
+    100376: Rotorblatt 18
+    100378: Rotorblatt 19
+    100380: Rotorblatt 2
+    100382: Rotorblatt 3
+    100384: Rotorblatt 4
+    100386: Rotorblatt 5
+    100388: Rotorblatt 6
+    100390: Rotorblatt 7
+    100392: Rotorblatt 8
+    100394: Rotorblatt 9
+    100396: skp_camera_Last_Saved_SketchUp_View
+    400000: Chassis
+    400002: Chassis 1
+    400004: Fan
+    400006: Fan 1
+    400008: group_0
+    400010: ID104
+    400012: ID104 1
+    400014: ID110
+    400016: ID110 1
+    400018: ID116
+    400020: ID116 1
+    400022: ID122
+    400024: ID122 1
+    400026: ID128
+    400028: ID128 1
+    400030: ID134
+    400032: ID134 1
+    400034: ID140
+    400036: ID140 1
+    400038: ID146
+    400040: ID146 1
+    400042: ID152
+    400044: ID152 1
+    400046: ID158
+    400048: ID158 1
+    400050: ID164
+    400052: ID164 1
+    400054: ID170
+    400056: ID170 1
+    400058: ID176
+    400060: ID176 1
+    400062: ID182
+    400064: ID182 1
+    400066: ID188
+    400068: ID188 1
+    400070: ID194
+    400072: ID194 1
+    400074: ID200
+    400076: ID200 1
+    400078: ID206
+    400080: ID206 1
+    400082: ID212
+    400084: ID212 1
+    400086: ID218
+    400088: ID218 1
+    400090: ID224
+    400092: ID224 1
+    400094: ID230
+    400096: ID230 1
+    400098: ID236
+    400100: ID236 1
+    400102: ID242
+    400104: ID242 1
+    400106: ID248
+    400108: ID248 1
+    400110: ID254
+    400112: ID254 1
+    400114: ID260
+    400116: ID260 1
+    400118: ID266
+    400120: ID266 1
+    400122: ID272
+    400124: ID272 1
+    400126: ID278
+    400128: ID278 1
+    400130: ID282
+    400132: ID282 1
+    400134: ID286
+    400136: ID286 1
+    400138: ID292
+    400140: ID292 1
+    400142: ID296
+    400144: ID296 1
+    400146: ID300
+    400148: ID300 1
+    400150: ID313
+    400152: ID319
+    400154: ID327
+    400156: ID333
+    400158: ID339
+    400160: ID345
+    400162: ID351
+    400164: ID357
+    400166: ID365
+    400168: ID378
+    400170: ID384
+    400172: ID390
+    400174: ID396
+    400176: ID402
+    400178: ID408
+    400180: ID414
+    400182: ID420
+    400184: ID426
+    400186: ID432
+    400188: ID438
+    400190: ID444
+    400192: ID450
+    400194: ID456
+    400196: ID462
+    400198: ID468
+    400200: ID474
+    400202: ID480
+    400204: ID486
+    400206: ID492
+    400208: ID498
+    400210: ID504
+    400212: ID510
+    400214: ID516
+    400216: ID522
+    400218: ID528
+    400220: ID534
+    400222: ID540
+    400224: ID546
+    400226: ID552
+    400228: ID558
+    400230: ID577
+    400232: ID585
+    400234: ID593
+    400236: ID601
+    400238: ID609
+    400240: ID617
+    400242: ID625
+    400244: ID633
+    400246: ID641
+    400248: ID649
+    400250: ID65
+    400252: ID65 1
+    400254: ID657
+    400256: ID665
+    400258: ID673
+    400260: ID681
+    400262: ID689
+    400264: ID697
+    400266: ID705
+    400268: ID71
+    400270: ID71 1
+    400272: ID713
+    400274: ID86
+    400276: ID86 1
+    400278: ID92
+    400280: ID92 1
+    400282: ID98
+    400284: ID98 1
+    400286: instance_0
+    400288: instance_1
+    400290: instance_10
+    400292: instance_10 1
+    400294: instance_11
+    400296: instance_11 1
+    400298: instance_12
+    400300: instance_12 1
+    400302: instance_13
+    400304: instance_13 1
+    400306: instance_14
+    400308: instance_14 1
+    400310: instance_15
+    400312: instance_2
+    400314: instance_2 1
+    400316: instance_3
+    400318: instance_3 1
+    400320: instance_4
+    400322: instance_4 1
+    400324: instance_5
+    400326: instance_5 1
+    400328: instance_6
+    400330: instance_6 1
+    400332: instance_7
+    400334: instance_7 1
+    400336: instance_8
+    400338: instance_8 1
+    400340: instance_9
+    400342: instance_9 1
+    400344: //RootNode
+    400346: Nabe
+    400348: Nabe 1
+    400350: Projector
+    400352: Rotor
+    400354: Rotor 1
+    400356: Rotorblatt
+    400358: Rotorblatt 1
+    400360: Rotorblatt 10
+    400362: Rotorblatt 11
+    400364: Rotorblatt 12
+    400366: Rotorblatt 13
+    400368: Rotorblatt 14
+    400370: Rotorblatt 15
+    400372: Rotorblatt 16
+    400374: Rotorblatt 17
+    400376: Rotorblatt 18
+    400378: Rotorblatt 19
+    400380: Rotorblatt 2
+    400382: Rotorblatt 3
+    400384: Rotorblatt 4
+    400386: Rotorblatt 5
+    400388: Rotorblatt 6
+    400390: Rotorblatt 7
+    400392: Rotorblatt 8
+    400394: Rotorblatt 9
+    400396: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: __CorrogateShiny_1
+    2100002: Color_007
+    2100004: Color_000
+    2100006: __Translucent_Glass_Gray_1
+    2100008: __Metal_Corrogated_Shiny_4
+    2100010: Color_008
+    2300000: Chassis
+    2300002: Chassis 1
+    2300004: group_0
+    2300006: ID104
+    2300008: ID104 1
+    2300010: ID110
+    2300012: ID110 1
+    2300014: ID116
+    2300016: ID116 1
+    2300018: ID122
+    2300020: ID122 1
+    2300022: ID128
+    2300024: ID128 1
+    2300026: ID134
+    2300028: ID134 1
+    2300030: ID140
+    2300032: ID140 1
+    2300034: ID146
+    2300036: ID146 1
+    2300038: ID152
+    2300040: ID152 1
+    2300042: ID158
+    2300044: ID158 1
+    2300046: ID164
+    2300048: ID164 1
+    2300050: ID170
+    2300052: ID170 1
+    2300054: ID176
+    2300056: ID176 1
+    2300058: ID182
+    2300060: ID182 1
+    2300062: ID188
+    2300064: ID188 1
+    2300066: ID194
+    2300068: ID194 1
+    2300070: ID200
+    2300072: ID200 1
+    2300074: ID206
+    2300076: ID206 1
+    2300078: ID212
+    2300080: ID212 1
+    2300082: ID218
+    2300084: ID218 1
+    2300086: ID224
+    2300088: ID224 1
+    2300090: ID230
+    2300092: ID230 1
+    2300094: ID236
+    2300096: ID236 1
+    2300098: ID242
+    2300100: ID242 1
+    2300102: ID248
+    2300104: ID248 1
+    2300106: ID254
+    2300108: ID254 1
+    2300110: ID260
+    2300112: ID260 1
+    2300114: ID266
+    2300116: ID266 1
+    2300118: ID313
+    2300120: ID319
+    2300122: ID327
+    2300124: ID333
+    2300126: ID339
+    2300128: ID345
+    2300130: ID351
+    2300132: ID357
+    2300134: ID365
+    2300136: ID378
+    2300138: ID384
+    2300140: ID390
+    2300142: ID396
+    2300144: ID402
+    2300146: ID408
+    2300148: ID414
+    2300150: ID420
+    2300152: ID426
+    2300154: ID432
+    2300156: ID438
+    2300158: ID444
+    2300160: ID450
+    2300162: ID456
+    2300164: ID462
+    2300166: ID468
+    2300168: ID474
+    2300170: ID480
+    2300172: ID486
+    2300174: ID492
+    2300176: ID498
+    2300178: ID504
+    2300180: ID510
+    2300182: ID516
+    2300184: ID522
+    2300186: ID528
+    2300188: ID534
+    2300190: ID540
+    2300192: ID546
+    2300194: ID552
+    2300196: ID558
+    2300198: ID577
+    2300200: ID585
+    2300202: ID593
+    2300204: ID601
+    2300206: ID609
+    2300208: ID617
+    2300210: ID625
+    2300212: ID633
+    2300214: ID641
+    2300216: ID649
+    2300218: ID65
+    2300220: ID65 1
+    2300222: ID657
+    2300224: ID665
+    2300226: ID673
+    2300228: ID681
+    2300230: ID689
+    2300232: ID697
+    2300234: ID705
+    2300236: ID71
+    2300238: ID71 1
+    2300240: ID713
+    2300242: ID86
+    2300244: ID86 1
+    2300246: ID92
+    2300248: ID92 1
+    2300250: ID98
+    2300252: ID98 1
+    2300254: Nabe
+    2300256: Nabe 1
+    2300258: Projector
+    2300260: Rotorblatt
+    2300262: Rotorblatt 1
+    2300264: Rotorblatt 10
+    2300266: Rotorblatt 11
+    2300268: Rotorblatt 12
+    2300270: Rotorblatt 13
+    2300272: Rotorblatt 14
+    2300274: Rotorblatt 15
+    2300276: Rotorblatt 16
+    2300278: Rotorblatt 17
+    2300280: Rotorblatt 18
+    2300282: Rotorblatt 19
+    2300284: Rotorblatt 2
+    2300286: Rotorblatt 3
+    2300288: Rotorblatt 4
+    2300290: Rotorblatt 5
+    2300292: Rotorblatt 6
+    2300294: Rotorblatt 7
+    2300296: Rotorblatt 8
+    2300298: Rotorblatt 9
+    3300000: Chassis
+    3300002: Chassis 1
+    3300004: group_0
+    3300006: ID104
+    3300008: ID104 1
+    3300010: ID110
+    3300012: ID110 1
+    3300014: ID116
+    3300016: ID116 1
+    3300018: ID122
+    3300020: ID122 1
+    3300022: ID128
+    3300024: ID128 1
+    3300026: ID134
+    3300028: ID134 1
+    3300030: ID140
+    3300032: ID140 1
+    3300034: ID146
+    3300036: ID146 1
+    3300038: ID152
+    3300040: ID152 1
+    3300042: ID158
+    3300044: ID158 1
+    3300046: ID164
+    3300048: ID164 1
+    3300050: ID170
+    3300052: ID170 1
+    3300054: ID176
+    3300056: ID176 1
+    3300058: ID182
+    3300060: ID182 1
+    3300062: ID188
+    3300064: ID188 1
+    3300066: ID194
+    3300068: ID194 1
+    3300070: ID200
+    3300072: ID200 1
+    3300074: ID206
+    3300076: ID206 1
+    3300078: ID212
+    3300080: ID212 1
+    3300082: ID218
+    3300084: ID218 1
+    3300086: ID224
+    3300088: ID224 1
+    3300090: ID230
+    3300092: ID230 1
+    3300094: ID236
+    3300096: ID236 1
+    3300098: ID242
+    3300100: ID242 1
+    3300102: ID248
+    3300104: ID248 1
+    3300106: ID254
+    3300108: ID254 1
+    3300110: ID260
+    3300112: ID260 1
+    3300114: ID266
+    3300116: ID266 1
+    3300118: ID313
+    3300120: ID319
+    3300122: ID327
+    3300124: ID333
+    3300126: ID339
+    3300128: ID345
+    3300130: ID351
+    3300132: ID357
+    3300134: ID365
+    3300136: ID378
+    3300138: ID384
+    3300140: ID390
+    3300142: ID396
+    3300144: ID402
+    3300146: ID408
+    3300148: ID414
+    3300150: ID420
+    3300152: ID426
+    3300154: ID432
+    3300156: ID438
+    3300158: ID444
+    3300160: ID450
+    3300162: ID456
+    3300164: ID462
+    3300166: ID468
+    3300168: ID474
+    3300170: ID480
+    3300172: ID486
+    3300174: ID492
+    3300176: ID498
+    3300178: ID504
+    3300180: ID510
+    3300182: ID516
+    3300184: ID522
+    3300186: ID528
+    3300188: ID534
+    3300190: ID540
+    3300192: ID546
+    3300194: ID552
+    3300196: ID558
+    3300198: ID577
+    3300200: ID585
+    3300202: ID593
+    3300204: ID601
+    3300206: ID609
+    3300208: ID617
+    3300210: ID625
+    3300212: ID633
+    3300214: ID641
+    3300216: ID649
+    3300218: ID65
+    3300220: ID65 1
+    3300222: ID657
+    3300224: ID665
+    3300226: ID673
+    3300228: ID681
+    3300230: ID689
+    3300232: ID697
+    3300234: ID705
+    3300236: ID71
+    3300238: ID71 1
+    3300240: ID713
+    3300242: ID86
+    3300244: ID86 1
+    3300246: ID92
+    3300248: ID92 1
+    3300250: ID98
+    3300252: ID98 1
+    3300254: Nabe
+    3300256: Nabe 1
+    3300258: Projector
+    3300260: Rotorblatt
+    3300262: Rotorblatt 1
+    3300264: Rotorblatt 10
+    3300266: Rotorblatt 11
+    3300268: Rotorblatt 12
+    3300270: Rotorblatt 13
+    3300272: Rotorblatt 14
+    3300274: Rotorblatt 15
+    3300276: Rotorblatt 16
+    3300278: Rotorblatt 17
+    3300280: Rotorblatt 18
+    3300282: Rotorblatt 19
+    3300284: Rotorblatt 2
+    3300286: Rotorblatt 3
+    3300288: Rotorblatt 4
+    3300290: Rotorblatt 5
+    3300292: Rotorblatt 6
+    3300294: Rotorblatt 7
+    3300296: Rotorblatt 8
+    3300298: Rotorblatt 9
+    4300000: Projector
+    4300002: ID577
+    4300004: ID585
+    4300006: ID593
+    4300008: ID601
+    4300010: ID609
+    4300012: ID617
+    4300014: ID625
+    4300016: ID633
+    4300018: ID641
+    4300020: ID649
+    4300022: ID657
+    4300024: ID665
+    4300026: ID673
+    4300028: ID681
+    4300030: ID689
+    4300032: ID697
+    4300034: ID705
+    4300036: ID713
+    4300038: group_0
+    4300040: ID313
+    4300042: ID319
+    4300044: ID327
+    4300046: ID333
+    4300048: ID339
+    4300050: ID345
+    4300052: ID351
+    4300054: ID357
+    4300056: ID365
+    4300058: ID378
+    4300060: ID384
+    4300062: ID390
+    4300064: ID396
+    4300066: ID402
+    4300068: ID408
+    4300070: ID414
+    4300072: ID420
+    4300074: ID426
+    4300076: ID432
+    4300078: ID438
+    4300080: ID444
+    4300082: ID450
+    4300084: ID456
+    4300086: ID462
+    4300088: ID468
+    4300090: ID474
+    4300092: ID480
+    4300094: ID486
+    4300096: ID492
+    4300098: ID498
+    4300100: ID504
+    4300102: ID510
+    4300104: ID516
+    4300106: ID522
+    4300108: ID528
+    4300110: ID534
+    4300112: ID540
+    4300114: ID546
+    4300116: ID552
+    4300118: ID558
+    4300120: Rotorblatt
+    4300122: Nabe
+    4300124: ID65
+    4300126: ID71
+    4300128: Chassis
+    4300130: ID86
+    4300132: ID92
+    4300134: ID98
+    4300136: ID104
+    4300138: ID110
+    4300140: ID116
+    4300142: ID122
+    4300144: ID128
+    4300146: ID134
+    4300148: ID140
+    4300150: ID146
+    4300152: ID152
+    4300154: ID158
+    4300156: ID164
+    4300158: ID170
+    4300160: ID176
+    4300162: ID182
+    4300164: ID188
+    4300166: ID194
+    4300168: ID200
+    4300170: ID206
+    4300172: ID212
+    4300174: ID218
+    4300176: ID224
+    4300178: ID230
+    4300180: ID236
+    4300182: ID242
+    4300184: ID248
+    4300186: ID254
+    4300188: ID260
+    4300190: ID266
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
