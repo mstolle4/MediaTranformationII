@@ -3,7 +3,7 @@
 DVDAbendVR_SS18_UoC
 DvdAbend_VR
 
-Version mit VR : https://
+Die Builds mit und ohne VR-Support können hier gefunden werden: https://drive.google.com/open?id=1abjeiwinno1ymdkjMDOtG_Osed8Hv2Sd
 
 Dieses Projekt kann man mit Steam VR auf der HTC Vive, der Oculus Rift und über die App VRidge von Riftcat starten. Man kann sich im Raum mit den WASD-Tasten bewegen und mit der Leertaste springen. Außerdem kann man sich im VR Build mit der Kopfbewegung und im nichtVR Build mit einer Mausbewegung umsehen. Mit drücken der linken Maustaste kann man in der Szene Schöne und das Biest, Gegenstände aufheben, beim loslassen der linken Maustaste, fällt das Objekt hinunter. Alternativ kann auch die rechte Maustaste betätigen und das jeweilige Gameobjekt wird geworfen. Zudem haben wir das Projekt mit Steuerung eines Kontrollors erweitert. Auf dem Playstation Kontroller wird durch drücken der Taste „x“, beispielsweise mit den DVDs agiert, mit „Dreieck“ kann man springen. Viel Spaß mit dem Projekt!
 
